@@ -1,0 +1,13 @@
+
+.container{
+    width:50vw;
+    /* height: 70vh; */
+   margin-left: 25%; 
+   margin-top: 20vh;
+   padding: 10px;
+   
+}
+.heading{
+    justify-content: center;
+    display: flex;
+}
